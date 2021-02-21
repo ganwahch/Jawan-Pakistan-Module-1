@@ -1,0 +1,8 @@
+-target
+-mailto
+-freecodecamp
+-img with tittle
+-jpg png gifs
+transparent images
+ROW spn for mrg
+colspn 1
